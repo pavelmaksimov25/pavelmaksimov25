@@ -24,8 +24,6 @@
 
   - [nitifycat](https://github.com/mptooling/nitifycat) - Self-hosted pull request notification
   service.
-  - [pr-bot](https://github.com/mptooling/pr-bot) - GitHub pull request bot for PR change
-  notifications. !Will be archived shortly!
 
   ### Backend Systems
 
