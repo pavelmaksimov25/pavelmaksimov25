@@ -14,6 +14,7 @@
 
   ### AI & Developer Tooling
 
+  - 🤖 [chatbot](https://github.com/pavelmaksimov25/chatbot) - AI chatbot platform, actively developed
   - [ailayer](https://github.com/mptooling/ailayer) - Curated AI tools library and CLI for injecting
   skills into Claude Code, Codex CLI, and Gemini CLI.
   - [robin](https://github.com/pavelmaksimov25/robin) - AI agents pool manager.
@@ -22,7 +23,7 @@
 
   ### Pull Request Automation
 
-  - [nitifycat](https://github.com/mptooling/nitifycat) - Self-hosted pull request notification
+  - 🚧 [nitifycat](https://github.com/mptooling/nitifycat) - Self-hosted pull request notification, actively developed
   service.
 
   ### Backend Systems
