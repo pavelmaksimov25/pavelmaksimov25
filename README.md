@@ -23,7 +23,7 @@
 
   ### Pull Request Automation
 
-  - 🚧 [nitifycat](https://github.com/mptooling/nitifycat) - Self-hosted pull request notification, actively developed
+  - 🚧 [notifycat](https://github.com/mptooling/notifycat) - Self-hosted pull request notification, actively developed
   service.
 
   ### Backend Systems
